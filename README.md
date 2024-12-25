@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning ...
+  JS, TS, React, Next, Angular, Node, Prisma, Python, Java, ML
 <!--
 **Kamilnaja/Kamilnaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
