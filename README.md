@@ -1,15 +1,18 @@
-## Hi there 👋
-- 🌱 I’m currently learning
+# Kamil Naja 🐍
+## 🌱 I’m currently learning
   - Node,
   - Prisma,
   - Python,
   - Java,
   - ML
 
-- 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
   - React
   - Tanstack Query
   - Clerk
+
+## What with the snake?
+[Naja Naja - Wikipedia](https://en.wikipedia.org/wiki/Indian_cobra)
 <!--
 **Kamilnaja/Kamilnaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
