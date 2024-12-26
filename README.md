@@ -1,10 +1,5 @@
 ## Hi there 👋
 - 🌱 I’m currently learning
-  - JS,
-  - TS,
-  - React,
-  - Next,
-  - Angular,
   - Node,
   - Prisma,
   - Python,
