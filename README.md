@@ -7,6 +7,7 @@
   - ML
 
 ## 🔭 I’m currently working on ...
+  - Angular
   - React
   - Tanstack Query
   - Clerk
