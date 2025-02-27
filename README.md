@@ -5,6 +5,7 @@
   - Python,
   - Java,
   - ML
+    - Pytorch
 
 ## 🔭 I’m currently working on ...
   - Angular
