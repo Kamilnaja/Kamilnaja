@@ -1,9 +1,11 @@
 # Kamil Naja 🐍
 ## 🌱 I’m currently learning
-  - Rust,
-  - Node,
+  - Mendix
+  - Azure
+  - Rust
   - Python,
   - Java,
   - ML
     - Pytorch
+    - SciKit Learn
    
