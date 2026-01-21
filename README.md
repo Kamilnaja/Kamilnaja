@@ -1,8 +1,9 @@
 # Kamil Naja 🐍
 ## 🌱 I’m currently learning
-  - Mendix
-  - Azure
-  - Rust
+  - Vue,
+  - Mendix,
+  - Azure,
+  - Rust,
   - Python,
   - Java,
   - ML
