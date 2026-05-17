@@ -1,5 +1,6 @@
 # Kamil Naja 🐍
-## 🌱 I’m currently learning
+## 🌱 I’m currently learning 
+  - N8N
   - Vue,
   - Mendix,
   - Azure,
